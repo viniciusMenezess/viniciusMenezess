@@ -30,6 +30,6 @@
   <img align="center" src="https://img.shields.io/badge/-ViniciusMenezes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/vinimnzss/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-viz1nn-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-vinimnzss-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
