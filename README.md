@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/vinicius-menezes-5a525320a/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusMenezes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/viz1nn/" target="_blank">
+<a href="https://www.instagram.com/vinimnzss/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-viz1nn-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
