@@ -1,9 +1,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Menezes</h1>
 
-A Enthusiast of the best web & mobile development technologies. 
-Passionate in Front-End Technologies like React, React Native, JavaScript, CSS and others. 
-"Everything I do is to be the best at what I do !"
+📚 I’m a Computer Engineering Student
+🌱 I’m currently learning JavaScript, NodeJS, ReactJS, and others...
+🤔 I’m looking for help with NodeJS to understand better others concepts
+💬 Ask me about JavaScript, it's nice.
+📫 How to reach me: @vinimnzss on Instagram and my email on bio
 
 <br><br>
 
