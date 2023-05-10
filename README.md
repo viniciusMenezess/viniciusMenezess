@@ -2,9 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Menezes</h1>
 
 - 📚 I’m a Computer Engineering Student
-- 🌱 I’m currently learning **JavaScript, NodeJS, ReactJS, and others...**
-- 🤔 I’m looking for help with NodeJS to understand better others concepts
-- 💬 Ask me about **JavaScript and ReactJS**, it's really nice.
+- 🌱 I’m currently learning **AWS, Infrastructure as a code, Kubernetes, Terraform**
+- 💬 Ask me about **Terraform and Ansible**, it's really nice.
 - 📫 How to reach me: @vinimnzss on Instagram and my email on bio.
 
 <br><br>
